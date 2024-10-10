@@ -97,5 +97,5 @@ Lembre-se de **comentar suas decisões** ao longo dos notebooks, explicando o mo
 - **Comentário nas decisões**: Lembre-se de comentar em cada notebook as decisões tomadas, explicando o raciocínio por trás de cada escolha.
 
 # ⚠️ATENÇÃO⚠️
-### O desempenho do modelo não é necessáriamente determinante para o sucesso da demanda. Caso esteja cumprindo os itens listados no tópico ``O que será Avaliado``, mesmo que o modelo não tiver um desempenho bom, ainda assim há chances de ser considerado para o cargo.
+### O desempenho do modelo **não é** o fator determinante para o sucesso da tarefa. Mesmo que o modelo não apresente um bom desempenho, se os itens listados no tópico ``O que será avaliado`` forem cumpridos, você ainda será considerado(a) para o cargo.
 Boa sorte!
