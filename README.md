@@ -82,7 +82,7 @@ Lembre-se de **comentar suas decisões** ao longo dos notebooks, explicando o mo
   
 ### 3. **Validação e Avaliação (Notebook 3)**
 - **Separação dos dados**: Avaliar se você fez a separação adequada dos dados de treino e validação, sem usar os mesmos dados para ambos os conjuntos.
-- **Validação do modelo**: Uso correto de métricas como **MAPE**, **MedAPE**, **RMSE** ou outras adequadas para o tipo de problema.
+- **Validação do modelo**: Uso correto de métricas como **MAPE**, **MedAPE**, **RMSE** ou outras adequadas para o tipo de problema. Mesmo que o valor da métrica não esteja idealmente satisfatório.
 - **Gráficos e visualizações**: Geração de gráficos de performance e explicações detalhadas sobre os resultados.
   
 ### 4. **Relatório Final**
@@ -96,4 +96,6 @@ Lembre-se de **comentar suas decisões** ao longo dos notebooks, explicando o mo
 - O uso de ferramentas como **IA** é permitido, desde que sejam bem documentadas. Compartilhando o link com os prompts utilizados na conversa.
 - **Comentário nas decisões**: Lembre-se de comentar em cada notebook as decisões tomadas, explicando o raciocínio por trás de cada escolha.
 
+# ⚠️ATENÇÃO⚠️
+### O desempenho do modelo não é necessáriamente determinante para o sucesso da demanda. Caso esteja cumprindo os itens listados no tópico ``O que será Avaliado``, mesmo que o modelo não tiver um desempenho bom, ainda assim há chances de ser considerado para o cargo.
 Boa sorte!
